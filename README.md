@@ -11,4 +11,9 @@
 3. melihat log file
 
         git log
-        git log --oneline                
+        git log --oneline
+
+4 melihat perbedaan antar commit
+
+        git diff
+        git diff versiId1..versiId2                
