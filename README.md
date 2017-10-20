@@ -2,4 +2,8 @@
 
 1. membuat inisialisasi repo di local
 
-        git init                
+        git init
+
+2. melihat status di local
+
+        git status                
