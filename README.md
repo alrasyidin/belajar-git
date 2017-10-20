@@ -6,4 +6,9 @@
 
 2. melihat status di local
 
-        git status                
+        git status
+
+3. melihat log file
+
+        git log
+        git log --oneline                
