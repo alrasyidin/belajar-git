@@ -21,3 +21,7 @@
 
         git diff
         git diff versiId1..versiId2
+
+6. mendaftarkan remote repo
+
+        git remote add [nama-alias] [sumber]
