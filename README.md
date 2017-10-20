@@ -25,3 +25,7 @@
 6. mendaftarkan remote repo
 
         git remote add [nama-alias] [sumber]
+
+7. mengambil remote repo ke local
+
+        git clone [nama-repo]
