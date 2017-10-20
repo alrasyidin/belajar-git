@@ -34,3 +34,4 @@
 
         git push -u [nama-alias] [nama-branch]
         git push -u github master -> untuk ke github
+        git push -u gitlab master -> untuk gitlab
