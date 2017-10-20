@@ -29,3 +29,7 @@
 7. mengambil remote repo ke local
 
         git clone [nama-repo]
+
+8. mengupload repo local ke remote
+
+        git push -u [nama-alias] [nama-branch]
