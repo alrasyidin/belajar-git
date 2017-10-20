@@ -4,16 +4,20 @@
 
         git init
 
-2. melihat status di local
+2. cara commit
+        
+        git commit -m "pesan"
+
+3. melihat status di local
 
         git status
 
-3. melihat log file
+4. melihat log file
 
         git log
         git log --oneline
 
-4 melihat perbedaan antar commit
+5 melihat perbedaan antar commit
 
         git diff
-        git diff versiId1..versiId2                
+        git diff versiId1..versiId2
