@@ -33,3 +33,4 @@
 8. mengupload repo local ke remote
 
         git push -u [nama-alias] [nama-branch]
+        git push -u github master -> untuk ke github
