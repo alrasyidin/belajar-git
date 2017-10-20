@@ -17,7 +17,7 @@
         git log
         git log --oneline
 
-5 melihat perbedaan antar commit
+5. melihat perbedaan antar commit
 
         git diff
         git diff versiId1..versiId2
