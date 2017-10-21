@@ -35,3 +35,8 @@
         git push -u [nama-alias] [nama-branch]
         git push -u github master -> untuk ke github
         git push -u gitlab master -> untuk gitlab
+
+9. tambahan commit untuk pull request
+
+        git add .
+        git commit -m "tambahan commit untuk pull request"
